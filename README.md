@@ -103,7 +103,7 @@ $ air # Ctrl + C to stop the application
 Build for production:
 
 ```
-$ go build -ldflags="-s -w" -o ./bin/main . # ./bin/main to run the application / Ctrl + C to stop the application
+$ go build -ldflags="-s -w" -o ./bin/main ./cmd/main.go # ./bin/main to run the application / Ctrl + C to stop the application
 ```
 ---
 
