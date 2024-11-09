@@ -6,3 +6,4 @@ app_data.db
 assets/css/main.css
 
 tailwind/node_modules
+.direnv/
