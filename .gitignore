@@ -7,3 +7,5 @@ assets/css/main.css
 
 tailwind/node_modules
 .direnv/
+
+/views/**/*.txt
